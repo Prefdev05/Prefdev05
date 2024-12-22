@@ -8,12 +8,12 @@
 - :credit_card: My full name is **Juan Esteban Cabrera Rueda** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently 1rd year student at **Politécnico Pio - Internacional de Occidente**
 - :earth_asia: I'm living now in **Cartago city, Colombia**
-- :sweat_smile: I'm a coding newbie, I know the JavaScript language and TypeScript. Now I am focused on learning Web Development and Cybersecurity.
+- :sweat_smile: I'm a coding newbie, I know the JavaScript language and TypeScript. Now I am focused on learning Web Development, Ethical Hacking and Cybersecurity.
 - :monocle_face: I am interested in programming, Ethical Hacking and Cybersecurity. Also play video games
 - :sunglasses: My quote is ***"Never too late to start over, never too late to be happy"*** 
 - My Skills: 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,vite,bootstrap,tailwind,mongodb,postgres,postman,arch,kali,windows,git,vscode,&perline=3)](https://skillicons.dev)
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
