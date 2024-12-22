@@ -12,8 +12,11 @@
 - :monocle_face: I am interested in programming, Ethical Hacking and Cybersecurity. Also play video games
 - :sunglasses: My quote is ***"Never too late to start over, never too late to be happy"*** 
 - My Skills: 
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,vite,bootstrap,tailwind,mongodb,postgres,postman,arch,kali,windows,git,vscode,&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,vite,bootstrap,tailwind,mongodb,postgres,postman,arch,kali,windows,git,vscode" />
+  </a>
+</p>
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
