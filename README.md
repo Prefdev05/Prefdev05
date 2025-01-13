@@ -18,7 +18,6 @@
     
   </a>
 </p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7282a514-e3bb-477b-9037-887b0cb3df51" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
 <div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prefdev05&layout=compact&show_icon=true&theme=algolia" alt="Prefdev05-langs"/>
