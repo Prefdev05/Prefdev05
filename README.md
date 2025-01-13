@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Prefdev05!!!;Welcome+to+my+profile!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Juan+Cabrera!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
 
@@ -15,6 +15,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,vite,bootstrap,tailwind,mongodb,postgres,postman,arch,kali,windows,git,vscode" />
+    <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7282a514-e3bb-477b-9037-887b0cb3df51" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
   </a>
 </p>
 
