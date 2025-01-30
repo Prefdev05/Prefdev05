@@ -9,8 +9,7 @@
 - :school: I'm currently 1rd year student at **Politécnico Pio - Internacional de Occidente**
 - :earth_asia: I'm living now in **Cartago city, Colombia**
 - :sweat_smile: I'm a coding newbie, I know the JavaScript language and TypeScript. Now I am focused on learning Web Development, Ethical Hacking and Cybersecurity.
-- :monocle_face: I am interested in programming, Ethical Hacking and Cybersecurity. Also play video games
-- :sunglasses: My quote is ***"Never too late to start over, never too late to be happy"*** 
+- :monocle_face: I am interested in programming, Ethical Hacking and Cybersecurity.
 - My Skills: 
 <p align="center">
   <a href="https://skillicons.dev">
