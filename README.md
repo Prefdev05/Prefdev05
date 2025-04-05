@@ -8,8 +8,8 @@
 - :credit_card: My full name is **Juan Esteban Cabrera Rueda** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
 - :school: I'm currently 1rd year student at **Politécnico Pio - Internacional de Occidente**
 - :earth_asia: I'm living now in **Cartago city, Colombia**
-- :sweat_smile: I'm a coding newbie, I know the JavaScript language and TypeScript. Now I am focused on learning Web Development, Ethical Hacking and Cybersecurity.
-- :monocle_face: I am interested in programming, Ethical Hacking and Cybersecurity.
+- :sweat_smile: I'm a coding newbie, I know the JavaScript language and TypeScript. Now I am focused on learning Python, pentesting, OWASP top 10 and web programming.
+- :monocle_face: I am interested in programming, pentesting and offensive security.
 - My Skills: 
 <p align="center">
   <a href="https://skillicons.dev">
