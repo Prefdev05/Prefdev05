@@ -1,20 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Juan+Cabrera!!!;Welcome+to+my+profile!" alt="Title"></img>
-</div>
 
-
-## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
-
-- :credit_card: My full name is **Juan Esteban Cabrera Rueda** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently 1rd year student at **Politécnico Pio - Internacional de Occidente**
-- :earth_asia: I'm living now in **Cartago city, Colombia**
-- :sweat_smile: I'm a coding newbie, I know the JavaScript language and TypeScript. Now I am focused on learning Python, pentesting, OWASP top 10 and web programming.
-- :monocle_face: I am interested in programming, pentesting and offensive security.
-- My Skills: 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vue,vite,bootstrap,tailwind,mongodb,postgres,postman,arch,kali,windows,git,vscode" />
-    
   </a>
 </p>
 <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> About Some Stats
